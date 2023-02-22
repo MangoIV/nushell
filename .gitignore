@@ -39,3 +39,8 @@ tarpaulin-report.html
 *.rsproj
 *.rsproj.user
 *.sln
+
+# direnv
+.direnv/
+.envrc
+.pre-commit-config.yaml
